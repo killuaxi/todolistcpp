@@ -7,7 +7,6 @@ This project is a "To-Do List" application that allows users to add, edit, and d
 - **Add a task**: Users can add a new task with a description and due date.
 - **Edit a task**: Users can edit the description and due date of a task.
 - **Delete a task**: Users can remove a task from the list.
-- **Mark a task as completed**: Users can mark a task as completed.
 
 ## Installation
 
